@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TSDMH_7s22_252_AEFC_P1P1" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.TSDMH_7s22_252_AEFC_P1P1" parent="Base.Theme.TSDMH_7s22_252_AEFC_P1P1" />
+</resources>
